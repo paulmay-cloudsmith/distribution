@@ -26,6 +26,7 @@ scanning, and are free for public repositories. For example:
 - [Docker Hub](https://hub.docker.com)
 - [Quay.io](https://quay.io/)
 - [GitHub Packages](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry)
+- [Cloudsmith](https://cloudsmith.com/product/formats/docker-registry)
 
 Cloud infrastructure providers such as [AWS](https://aws.amazon.com/ecr/), [Azure](https://azure.microsoft.com/products/container-registry/), [Google Cloud](https://cloud.google.com/artifact-registry) and [IBM Cloud](https://www.ibm.com/products/container-registry) also have container registry services available at a cost.
 
